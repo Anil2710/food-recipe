@@ -18,6 +18,10 @@
     "@angular/platform-browser": "~13.3.0",
     "@angular/platform-browser-dynamic": "~13.3.0",
     "@angular/router": "~13.3.0",
+    "@ngrx/effects": "^15.1.0",
+    "@ngrx/router-store": "^15.1.0",
+    "@ngrx/store": "^13.0.2",
+    "bootstrap": "^3.4.1",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
@@ -26,14 +30,24 @@
     "@angular-devkit/build-angular": "~13.3.2",
     "@angular/cli": "~13.3.2",
     "@angular/compiler-cli": "~13.3.0",
+    "@ngrx/store-devtools": "^15.1.0",
     "@types/jasmine": "~3.10.0",
     "@types/node": "^12.11.1",
+    "assert": "^2.0.0",
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "https-browserify": "^1.0.0",
     "jasmine-core": "~4.0.0",
     "karma": "~6.3.0",
     "karma-chrome-launcher": "~3.1.0",
     "karma-coverage": "~2.1.0",
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "~1.7.0",
-    "typescript": "~4.6.2"
+    "os-browserify": "^0.3.0",
+    "process": "^0.11.10",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "typescript": "~4.6.2",
+    "url": "^0.11.0"
   }
 }
